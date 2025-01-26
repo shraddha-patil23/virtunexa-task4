@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to bottom, #e2e8f0, #edf2f7);
+    font-family: Arial, sans-serif;
+}
+
+#diaryForm input,
+#diaryForm textarea {
+    background-color: rgb(211, 234, 249);
+}
+
+#decryptForm input {
+    background-color: rgb(199, 249, 217);
+}
