@@ -1,5 +1,4 @@
 # Secure Digital Diary with Encryption
-___
 
 A simple yet secure digital diary application where users can write, encrypt, and decrypt their diary entries. The entries are encrypted using AES encryption with a password, ensuring that only authorized users can access their sensitive information.
 
